@@ -6,4 +6,4 @@ Simple app built using Angular Framework to display past launch data. Data is pr
 
 ![alt text](https://i.imgur.com/4C9z6Ft.png "SpaceX GraphQL/Apollo App")
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app "Create React App"). To learn React, check out the [React Documentation](https://reactjs.org/docs/getting-started.html "React Documentation").
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
