@@ -4,9 +4,4 @@ Simple app built using Angular Framework to display past launch data. Data is pr
 
 [Live Demo](https://jamiejarrettjj.github.io/spacex-graphql/ "Live Demo")
 
-## Sorting Algorithms:
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app "Create React App"). To learn React, check out the [React Documentation](https://reactjs.org/docs/getting-started.html "React Documentation").
